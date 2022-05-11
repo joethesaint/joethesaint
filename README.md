@@ -1,4 +1,4 @@
-### Hi there 👋
+### "There Is No Future. There Is No Past."
 
 <!--
 **joethesaint/joethesaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
