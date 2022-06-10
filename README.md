@@ -1,7 +1,7 @@
 ## Do you README?
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C0BD8D&center=true&multiline=true&width=800&lines="There+Is+No+Future.+There+Is+No+Past.")](https://git.io/typing-svg)
 
-<img src="/manhattan.png" alt="introductory banner for JoetheSAINt">
+<img src="/watchman.png" alt="introductory banner for JoetheSAINt">
 
 
 #### Languages and Tools:
