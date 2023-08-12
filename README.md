@@ -15,6 +15,7 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/cli/cli.png"></code>
+
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/database/database.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/flask/flask.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/eslint/eslint.png"></code>
@@ -38,6 +39,7 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/java/java.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/haskell/haskell.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/chatgpt-api/chatgpt-api.png"></code>
+
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/azure-devops/azure-devops.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/aws/aws.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>
