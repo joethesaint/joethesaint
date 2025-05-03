@@ -8,7 +8,6 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/bash/bash.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/polars/polars.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/azure/azure.png"></code>
