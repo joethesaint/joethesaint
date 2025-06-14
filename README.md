@@ -1,5 +1,5 @@
 ## Do you README?
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=3FC74F&background=0D111700&center=true&width=750&height=60&lines="There+Is+No+Future";"There+Is+No+Past";&vCenter=true&border=true&borderColor=3FC74F&cursor=true&cursorColor=FFFFFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=3FC74F&background=0D111700&center=true&width=750&height=60&lines="There+Is+No+Future...";"There+Is+No+Past...";&vCenter=true&border=true&borderColor=3FC74F&cursor=true&cursorColor=FFFFFF)](https://git.io/typing-svg)
 ```text
 ####################################################################################
 # ******************************************************************************** #
