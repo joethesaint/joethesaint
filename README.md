@@ -44,7 +44,11 @@
 # @@@@@@@@#*********************************************************************** #
 ####################################################################################
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=3FC74F&background=0D111700&center=true&width=750&height=60&lines="There+Is+No+Future...";"There+Is+No+Past...";&vCenter=true&border=true&borderColor=3FC74F&cursor=true&cursorColor=FFFFFF)](https://git.io/typing-svg)
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joethesaint&label=Profile%20views&color=0e75b6&style=flat" alt="joethesaint" /> </p>
+- 🔭 I’m currently working on developing myself
+- 🌱 I'm an aspiring Quant Dev
+- 👯 I’m open to collaborate with your team
+- 💬 Ask me about C, Python and mql4
 
 #### Languages and Tools:
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
@@ -94,6 +98,8 @@
 
 | <a href="https://github.com/joethesaint/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joethesaint&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="JoetheSAINt's github stats" /></a> | <a href="https://github.com/joethesaint/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joethesaint&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
 | ------------- | ------------- |
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=3FC74F&background=0D111700&center=true&width=750&height=60&lines="There+Is+No+Future...";"There+Is+No+Past...";&vCenter=true&border=true&borderColor=3FC74F&cursor=true&cursorColor=FFFFFF)](https://git.io/typing-svg)
 
 <!--
 **joethesaint/joethesaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
