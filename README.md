@@ -30,7 +30,7 @@ An image-to-ASCII and 3D point-cloud playground. PointGen turns a Roman bust int
 
 ### Technical Focus
 
-`Python` · `C` · `JavaScript` · `SQL` · `Polars` · `Flask` · `Django` · `Three.js` · `GLSL`
+`Python` · `C` · `JavaScript` · `SQL` · `MQL5` · `PowerLanguage (MultiCharts)` · `Polars` · `Flask` · `Django` · `Three.js` · `GLSL`
 
 | <a href="https://github.com/joethesaint/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api?username=joethesaint&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="GitHub stats" /></a> | <a href="https://github.com/joethesaint/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joethesaint&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top languages" /></a> |
 | ------------- | ------------- |
